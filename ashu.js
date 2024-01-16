@@ -32,3 +32,4 @@ fs.writeFile('./f.txt','i am ashu from nsti patna',{flag:"a"}(error)=>{
     }
 })
 
+
